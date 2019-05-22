@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		112EA86F818C50C82B27B85E /* Pods_TwilioDeviceFreezeTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E676D46FCAD3B827C016B14D /* Pods_TwilioDeviceFreezeTests.framework */; };
 		48AE18982295BDDB0075BAE5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48AE18972295BDDB0075BAE5 /* AppDelegate.swift */; };
 		48AE189A2295BDDB0075BAE5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48AE18992295BDDB0075BAE5 /* ViewController.swift */; };
 		48AE189D2295BDDB0075BAE5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48AE189B2295BDDB0075BAE5 /* Main.storyboard */; };
@@ -14,6 +15,8 @@
 		48AE18A22295BDDB0075BAE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48AE18A02295BDDB0075BAE5 /* LaunchScreen.storyboard */; };
 		48AE18AD2295BDDB0075BAE5 /* TwilioDeviceFreezeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48AE18AC2295BDDB0075BAE5 /* TwilioDeviceFreezeTests.swift */; };
 		48AE18B82295BDDB0075BAE5 /* TwilioDeviceFreezeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48AE18B72295BDDB0075BAE5 /* TwilioDeviceFreezeUITests.swift */; };
+		AF1944C037F93FF70D91F610 /* Pods_TwilioDeviceFreeze.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 435DDBC79B651A2EA863BBAF /* Pods_TwilioDeviceFreeze.framework */; };
+		C0E9ED3ED390C85DD01B8A15 /* Pods_TwilioDeviceFreezeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11A90D355F2303E74C8A5452 /* Pods_TwilioDeviceFreezeUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		11A90D355F2303E74C8A5452 /* Pods_TwilioDeviceFreezeUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TwilioDeviceFreezeUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BA9EC81984D324438F6339D /* Pods-TwilioDeviceFreezeUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TwilioDeviceFreezeUITests.debug.xcconfig"; path = "Target Support Files/Pods-TwilioDeviceFreezeUITests/Pods-TwilioDeviceFreezeUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		39A565B58D4562D4B58E458F /* Pods-TwilioDeviceFreeze.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TwilioDeviceFreeze.debug.xcconfig"; path = "Target Support Files/Pods-TwilioDeviceFreeze/Pods-TwilioDeviceFreeze.debug.xcconfig"; sourceTree = "<group>"; };
+		435DDBC79B651A2EA863BBAF /* Pods_TwilioDeviceFreeze.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TwilioDeviceFreeze.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		48AE18942295BDDB0075BAE5 /* TwilioDeviceFreeze.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwilioDeviceFreeze.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48AE18972295BDDB0075BAE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48AE18992295BDDB0075BAE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +54,11 @@
 		48AE18B32295BDDB0075BAE5 /* TwilioDeviceFreezeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TwilioDeviceFreezeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		48AE18B72295BDDB0075BAE5 /* TwilioDeviceFreezeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwilioDeviceFreezeUITests.swift; sourceTree = "<group>"; };
 		48AE18B92295BDDB0075BAE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56A2847D147251F013E46DB6 /* Pods-TwilioDeviceFreezeUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TwilioDeviceFreezeUITests.release.xcconfig"; path = "Target Support Files/Pods-TwilioDeviceFreezeUITests/Pods-TwilioDeviceFreezeUITests.release.xcconfig"; sourceTree = "<group>"; };
+		5BCA19B968CC331840FD04CE /* Pods-TwilioDeviceFreezeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TwilioDeviceFreezeTests.release.xcconfig"; path = "Target Support Files/Pods-TwilioDeviceFreezeTests/Pods-TwilioDeviceFreezeTests.release.xcconfig"; sourceTree = "<group>"; };
+		681ADEE17AF98D51CF4C010E /* Pods-TwilioDeviceFreezeTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TwilioDeviceFreezeTests.debug.xcconfig"; path = "Target Support Files/Pods-TwilioDeviceFreezeTests/Pods-TwilioDeviceFreezeTests.debug.xcconfig"; sourceTree = "<group>"; };
+		895D3EA7FB6BE2E9D05846AE /* Pods-TwilioDeviceFreeze.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TwilioDeviceFreeze.release.xcconfig"; path = "Target Support Files/Pods-TwilioDeviceFreeze/Pods-TwilioDeviceFreeze.release.xcconfig"; sourceTree = "<group>"; };
+		E676D46FCAD3B827C016B14D /* Pods_TwilioDeviceFreezeTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TwilioDeviceFreezeTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF1944C037F93FF70D91F610 /* Pods_TwilioDeviceFreeze.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				112EA86F818C50C82B27B85E /* Pods_TwilioDeviceFreezeTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0E9ED3ED390C85DD01B8A15 /* Pods_TwilioDeviceFreezeUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +96,8 @@
 				48AE18AB2295BDDB0075BAE5 /* TwilioDeviceFreezeTests */,
 				48AE18B62295BDDB0075BAE5 /* TwilioDeviceFreezeUITests */,
 				48AE18952295BDDB0075BAE5 /* Products */,
+				BD5AAAEF672208BDA36637D4 /* Pods */,
+				96B18A3C950CEEFC4F718A6B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +142,30 @@
 			path = TwilioDeviceFreezeUITests;
 			sourceTree = "<group>";
 		};
+		96B18A3C950CEEFC4F718A6B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				435DDBC79B651A2EA863BBAF /* Pods_TwilioDeviceFreeze.framework */,
+				E676D46FCAD3B827C016B14D /* Pods_TwilioDeviceFreezeTests.framework */,
+				11A90D355F2303E74C8A5452 /* Pods_TwilioDeviceFreezeUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BD5AAAEF672208BDA36637D4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				39A565B58D4562D4B58E458F /* Pods-TwilioDeviceFreeze.debug.xcconfig */,
+				895D3EA7FB6BE2E9D05846AE /* Pods-TwilioDeviceFreeze.release.xcconfig */,
+				681ADEE17AF98D51CF4C010E /* Pods-TwilioDeviceFreezeTests.debug.xcconfig */,
+				5BCA19B968CC331840FD04CE /* Pods-TwilioDeviceFreezeTests.release.xcconfig */,
+				2BA9EC81984D324438F6339D /* Pods-TwilioDeviceFreezeUITests.debug.xcconfig */,
+				56A2847D147251F013E46DB6 /* Pods-TwilioDeviceFreezeUITests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +173,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 48AE18BC2295BDDB0075BAE5 /* Build configuration list for PBXNativeTarget "TwilioDeviceFreeze" */;
 			buildPhases = (
+				71D33B58FD0C8EFEDC9E5DBC /* [CP] Check Pods Manifest.lock */,
 				48AE18902295BDDB0075BAE5 /* Sources */,
 				48AE18912295BDDB0075BAE5 /* Frameworks */,
 				48AE18922295BDDB0075BAE5 /* Resources */,
+				1A56E603007A5DBF1B64C5CA /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,6 +192,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 48AE18BF2295BDDB0075BAE5 /* Build configuration list for PBXNativeTarget "TwilioDeviceFreezeTests" */;
 			buildPhases = (
+				2D2A6CBC91835A3AB76911E2 /* [CP] Check Pods Manifest.lock */,
 				48AE18A42295BDDB0075BAE5 /* Sources */,
 				48AE18A52295BDDB0075BAE5 /* Frameworks */,
 				48AE18A62295BDDB0075BAE5 /* Resources */,
@@ -167,6 +211,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 48AE18C22295BDDB0075BAE5 /* Build configuration list for PBXNativeTarget "TwilioDeviceFreezeUITests" */;
 			buildPhases = (
+				FAABC8FFD677D88650343535 /* [CP] Check Pods Manifest.lock */,
 				48AE18AF2295BDDB0075BAE5 /* Sources */,
 				48AE18B02295BDDB0075BAE5 /* Frameworks */,
 				48AE18B12295BDDB0075BAE5 /* Resources */,
@@ -250,6 +295,97 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1A56E603007A5DBF1B64C5CA /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TwilioDeviceFreeze/Pods-TwilioDeviceFreeze-frameworks.sh",
+				"${PODS_ROOT}/TwilioVideo/Build/iOS/TwilioVideo.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TwilioVideo.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TwilioDeviceFreeze/Pods-TwilioDeviceFreeze-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2D2A6CBC91835A3AB76911E2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TwilioDeviceFreezeTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		71D33B58FD0C8EFEDC9E5DBC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TwilioDeviceFreeze-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FAABC8FFD677D88650343535 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TwilioDeviceFreezeUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		48AE18902295BDDB0075BAE5 /* Sources */ = {
@@ -430,6 +566,7 @@
 		};
 		48AE18BD2295BDDB0075BAE5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 39A565B58D4562D4B58E458F /* Pods-TwilioDeviceFreeze.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -448,6 +585,7 @@
 		};
 		48AE18BE2295BDDB0075BAE5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 895D3EA7FB6BE2E9D05846AE /* Pods-TwilioDeviceFreeze.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -466,6 +604,7 @@
 		};
 		48AE18C02295BDDB0075BAE5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 681ADEE17AF98D51CF4C010E /* Pods-TwilioDeviceFreezeTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -487,6 +626,7 @@
 		};
 		48AE18C12295BDDB0075BAE5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5BCA19B968CC331840FD04CE /* Pods-TwilioDeviceFreezeTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,6 +648,7 @@
 		};
 		48AE18C32295BDDB0075BAE5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2BA9EC81984D324438F6339D /* Pods-TwilioDeviceFreezeUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -528,6 +669,7 @@
 		};
 		48AE18C42295BDDB0075BAE5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 56A2847D147251F013E46DB6 /* Pods-TwilioDeviceFreezeUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

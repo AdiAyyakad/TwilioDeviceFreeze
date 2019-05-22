@@ -1,0 +1,4 @@
+Pods
+*.xcscmblueprint
+xcuserdata/
+.DS_Store
